@@ -1,1 +1,1 @@
-# mmvclient_update
+# SVIDIA MMVClient update channel
