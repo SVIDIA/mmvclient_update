@@ -1,5 +1,13 @@
 # SVIDIA MMVClient update channel
 
+
+### SVidia_MMVClient_8_0_15_249_ttf
+*Apr 29, 2020*
+- added NVR reconnect menu option
+- option to send crash report to cloud
+- removed requirements for redistributable libraries for Intel® C++
+- minor fixes and improvements
+
 ### SVidia_MMVClient_8_0_15_247_ttf
 *Dec 20, 2019*
 - added command line option to force lock screen on startup
