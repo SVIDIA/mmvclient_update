@@ -2,7 +2,7 @@
 
 ### SVidia_MMVClient_8_0_15_250_ttf
 *Jun 10, 2020*
-- added timestamp to metadata and overlay exported pictures
+- added timestamp to metadata and as overlay for exported pictures
 
 ### SVidia_MMVClient_8_0_15_249_ttf
 *Apr 29, 2020*
