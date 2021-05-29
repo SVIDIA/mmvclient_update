@@ -1,5 +1,10 @@
 # SVIDIA MMVClient update channel
 
+### SVidia_MMVClient_8_0_15_256_odw
+*May 28, 2021*
+- new object detectors
+- stability fixes and performance improvements
+
 ### SVidia_MMVClient_8_0_15_250_ttf
 *Jun 10, 2020*
 - added timestamp to metadata and as overlay for exported pictures
