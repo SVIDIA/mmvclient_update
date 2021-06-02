@@ -1,7 +1,7 @@
 # SVIDIA MMVClient update channel
 
-### SVidia_MMVClient_8_0_15_256_odw
-*May 28, 2021*
+### SVidia_MMVClient_8_0_15_257_odw
+*Jun 2, 2021*
 - new object detectors
 - stability fixes and performance improvements
 
