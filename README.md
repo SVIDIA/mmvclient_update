@@ -1,5 +1,11 @@
 # SVIDIA MMVClient update channel
 
+### SVidia_MMVClient_8_0_15_259_odw
+*Jun 15, 2021*
+- improved VCore server side events handling
+- improvements working with archive
+- stability fixes and performance enhancements 
+
 ### SVidia_MMVClient_8_0_15_258_odw
 *Jun 2, 2021*
 - new object detectors
