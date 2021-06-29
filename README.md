@@ -1,5 +1,11 @@
 # SVIDIA MMVClient update channel
 
+### SVidia_MMVClient_8_0_15_260_odw
+*Jun 28, 2021*
+- refactored and optimized archive UI operations
+- added PTZ
+- stability fixes and performance enhancements 
+
 ### SVidia_MMVClient_8_0_15_259_odw
 *Jun 15, 2021*
 - improved VCore server side events handling
