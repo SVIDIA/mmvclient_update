@@ -1,10 +1,11 @@
 # SVIDIA MMVClient update channel
 
-### SVidia_MMVClient_8_0_15_260_odw
-*Jun 28, 2021*
+### SVidia_MMVClient_8_0_15_261_odw
+*Jun 30, 2021*
 - refactored and optimized archive UI operations
-- added PTZ
-- stability fixes and performance enhancements 
+- added PTZ tracking on/off and set PTZ preset commands
+- fixed bugs with sorted NVR tree
+- stability fixes and performance enhancements
 
 ### SVidia_MMVClient_8_0_15_259_odw
 *Jun 15, 2021*
