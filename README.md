@@ -1,8 +1,8 @@
 # SVIDIA MMVClient update channel
 
-### SVidia_MMVClient_8_0_15_263_odw
-*Jul 12, 2021*
-- minor bug fixing 
+### SVidia_MMVClient_8_0_15_264_odw
+*Jul 14, 2021*
+- fixed some bugs
 
 ### SVidia_MMVClient_8_0_15_261_odw
 *Jun 30, 2021*
