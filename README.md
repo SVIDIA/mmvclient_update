@@ -2,7 +2,7 @@
 
 ### SVidia_MMVClient_8_0_15_270_odw
 *Sep 3, 2021*
-- updated lpr modet to ver 6910
+- updated lpr model to v6910
 - visual fixes and performance improvements
 
 ### SVidia_MMVClient_8_0_15_269_odw
