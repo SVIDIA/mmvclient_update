@@ -1,5 +1,10 @@
 # SVIDIA MMVClient update channel
 
+### SVidia_MMVClient_8_0_15_270_odw
+*Sep 3, 2021*
+- updated lpr modet to ver 6910
+- visual fixes and performance improvements
+
 ### SVidia_MMVClient_8_0_15_269_odw
 *Aug 14, 2021*
 - bugs fixes and performance improvements
