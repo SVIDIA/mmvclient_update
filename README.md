@@ -1,5 +1,9 @@
 # SVIDIA MMVClient update channel
 
+### SVidia_MMVClient_8_0_15_271_odw
+*Feb 8, 2021*
+- added workaround for crashes on some GPU 
+
 ### SVidia_MMVClient_8_0_15_270_odw
 *Sep 3, 2021*
 - updated lpr model to v6910
