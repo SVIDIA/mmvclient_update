@@ -1,7 +1,11 @@
 # SVIDIA MMVClient update channel
 
+### SVidia_MMVClient_8_0_15_272_odw
+*Apr 8, 2022*
+- fixed OD workers incomplete distr 
+
 ### SVidia_MMVClient_8_0_15_271_odw
-*Feb 8, 2021*
+*Feb 8, 2022*
 - added workaround for crashes on some GPU 
 
 ### SVidia_MMVClient_8_0_15_270_odw
